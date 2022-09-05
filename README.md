@@ -1,2 +1,2 @@
 # python
-learning_python
+python lessons and excercises
